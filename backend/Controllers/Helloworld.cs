@@ -12,7 +12,7 @@ public class HelloWorldController : ControllerBase
     [HttpGet]
     public IActionResult Get()
     {
-        return Ok("Hello yiran");
+        return Ok("Hello wwwworld");
     }
 
 }
